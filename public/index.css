@@ -1,12 +1,12 @@
 body {
-  background-color: #443973;
+  background-color: #008e76;
 }
 
 #root {
   padding: 30px;
   font-family: "Open Sans", sans-serif;
-  background-color: #5f4996;
-  color: #EDE7F6;
+  background-color: #00bfa5;
+  color: #e0f7fa;
   transition: all 0.6s ease-in-out;
 }
 
@@ -14,7 +14,7 @@ nav > a {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  color: #EDE7F6;
+  color: #e0f7fa;
   margin-right: 30.5px;
   text-decoration-line: none;
 }
@@ -25,14 +25,14 @@ nav > a.active {
 
 nav {
   padding-bottom: 20px;
-  border-bottom: 1px solid #E1BEE7;
+  border-bottom: 1px solid #e0f7fa;
   margin-bottom: 20px;
 }
 
 h2 {
   font-weight: bold;
   font-size: 18px;
-  color: #E1BEE7;
+  color: #e0f7fa;
   margin: 0;
   margin-bottom: 18px;
 }
@@ -42,7 +42,7 @@ section {
 
 hr {
   border: none;
-  border-top: 1px solid #E1BEE7;
+  border-top: 1px solid #e0f7fa;
   margin: 20px 0;
 }
 
@@ -64,8 +64,8 @@ input[type="submit"] {
 input,
 select {
   font-family: "Open Sans", sans-serif;
-  background: #EDE7F6;
-  border: solid 4px #9575CD;
+  background: #e0f7fa;
+  border: solid 4px #008e76;
   border-radius: 10px;
   padding: 7px 9.6px 9px 9.6px;
   outline: none;
@@ -99,11 +99,11 @@ label {
 
 button {
   padding: 10px 15px;
-  background-color: #5E35B1;
-  border: solid 4px #9575CD;
+  background-color: #00bfa5;
+  border: solid 4px #008e76;
   border-radius: 50px;
   font-weight: 700;
   font-size: 16px;
-  color: #FFC107;
+  color: #e0f7fa;
   margin-top: 10px;
 }

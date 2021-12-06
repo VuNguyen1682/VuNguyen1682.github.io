@@ -13,14 +13,14 @@ function App() {
 
   const defaultContacts = [
     {
-      name: 'Atanas Dimitrov',
-      phone: '07712345678',
-      email: 'atanas@defaultemail.com'
+      name: 'Martin Nilstomt',
+      phone: '0763546384',
+      email: 'martin@example.com'
     },
     {
-      name: 'John Doe',
-      phone: '07787654321',
-      email: 'john@defaultemail.com'
+      name: 'Uy Vu Nguyen',
+      phone: '0707352769',
+      email: 'vung@example.com'
     }
   ]
   const [contacts, setContacts] = useState(defaultContacts);
